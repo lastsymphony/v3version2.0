@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/lastsymphony/v3
-> cd wabot-aq
+> git clone https://github.com/lastsymphony/v3version2.0
+> cd v3version2.0
 > npm install
 ```
 ###### Run
